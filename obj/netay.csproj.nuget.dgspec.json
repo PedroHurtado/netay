@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/netay/netay.csproj": {}
+    "C:\\Users\\Home\\Documents\\Cursos 2024\\11-noviembre\\.Net Ayesa\\netay\\netay.csproj": {}
   },
   "projects": {
-    "/workspaces/netay/netay.csproj": {
+    "C:\\Users\\Home\\Documents\\Cursos 2024\\11-noviembre\\.Net Ayesa\\netay\\netay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/netay/netay.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Documents\\Cursos 2024\\11-noviembre\\.Net Ayesa\\netay\\netay.csproj",
         "projectName": "netay",
-        "projectPath": "/workspaces/netay/netay.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/netay/obj/",
+        "projectPath": "C:\\Users\\Home\\Documents\\Cursos 2024\\11-noviembre\\.Net Ayesa\\netay\\netay.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Home\\Documents\\Cursos 2024\\11-noviembre\\.Net Ayesa\\netay\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

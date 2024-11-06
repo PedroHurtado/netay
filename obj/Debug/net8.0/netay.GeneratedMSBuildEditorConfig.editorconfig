@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = netay
-build_property.ProjectDir = /workspaces/netay/
+build_property.ProjectDir = C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
