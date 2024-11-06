@@ -13,3 +13,18 @@
 /workspaces/netay/obj/Debug/net8.0/netay.pdb
 /workspaces/netay/obj/Debug/net8.0/netay.genruntimeconfig.cache
 /workspaces/netay/obj/Debug/net8.0/ref/netay.dll
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\bin\Debug\net8.0\netay.exe
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\bin\Debug\net8.0\netay.deps.json
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\bin\Debug\net8.0\netay.runtimeconfig.json
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\bin\Debug\net8.0\netay.dll
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\bin\Debug\net8.0\netay.pdb
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.AssemblyInfo.cs
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.sourcelink.json
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.dll
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\refint\netay.dll
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.pdb
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\netay.genruntimeconfig.cache
+C:\Users\Home\Documents\Cursos 2024\11-noviembre\.Net Ayesa\netay\obj\Debug\net8.0\ref\netay.dll

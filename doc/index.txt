@@ -1,0 +1,12 @@
+1. clases
+    metodos
+    propiedades
+    encapsulacion
+        private
+        public
+        protected
+2. Herencia, Composicion(x)
+3. Avanzados
+    Array,List<T>, Extension Method, Delegates, IEnumerable<T> ->Linq
+4. Solid
+5. Patrones de diseño (Paint)
