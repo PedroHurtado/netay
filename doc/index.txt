@@ -1,10 +1,10 @@
 1. clases
     metodos
-    propiedades
+    propiedades(atributos)
     encapsulacion
-        private
-        public
-        protected
+        private   this
+        public    this|var
+        protected -> public para los herederos y privado para la instancia
 2. Herencia, Composicion(x)
 3. Avanzados
     Array,List<T>, Extension Method, Delegates, IEnumerable<T> ->Linq

@@ -16,7 +16,7 @@ namespace Curso
         public static bool operator !=(Foo a, Foo b){
             return a.Id != b.Id;
         }
-        public override bool Equals(object? obj)        
+        public override bool Equals(object? obj)       
         {
             if(obj is Foo f){
                 return f.Id==Id;
