@@ -6,7 +6,10 @@
         public    this|var
         protected -> public para los herederos y privado para la instancia
 2. Herencia, Composicion(x)
-3. Avanzados
+3. Solid(delegados)
+4. Interfaces
+
+5. Avanzados
     Array,List<T>, Extension Method, Delegates, IEnumerable<T> ->Linq
-4. Solid
-5. Patrones de diseño (Paint)
+
+6. Patrones de diseño (Paint)
