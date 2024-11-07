@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18c192acc88fbea6775ef3c7860e7ea3ada317bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e0bc83a444338f03831ae63c6e0f7b61cbc56d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("netay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
