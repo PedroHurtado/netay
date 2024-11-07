@@ -1,5 +1,44 @@
 namespace service{
 
+    public interface IGet{
+        void Get();
+    }
+    public interface IAdd{
+        void Add();
+    }
+    public interface IUpdate:IGet  {
+        void Update();
+    }
+    public interface IRemove:IGet{
+        void Remove();
+    }
+
+    public interface IRepository: IAdd,IUpdate, IRemove {}
+
+    public class Repository : IRepository
+    {
+        public void Add()
+        {
+            
+        }
+
+        public void Get()
+        {
+            
+        }
+
+        public void Remove()
+        {
+            
+        }
+
+        public void Update()
+        {
+            
+        }
+    }
+
+
     public class Controller{
         private readonly IService _service;
         public Controller(IService service){
@@ -12,22 +51,8 @@ namespace service{
             _service.Update();
         }
     }
-    public interface IRepository{
-        void Add();
-        void Update();
-    }
-    public class Repository : IRepository
-    {
-        public void Add()
-        {
-            
-        }
 
-        public void Update()
-        {
-            
-        }
-    }
+    
     /*
         no puedes hacer un new
     */
@@ -52,7 +77,7 @@ namespace service{
         }
 
         public void Update()
-        {
+        {   _repository.Get();
             _repository.Update();
         }
     }
