@@ -1,6 +1,14 @@
 ﻿using Aves;
 using Curso;
+using service;
 // See https://aka.ms/new-console-template for more information
+
+
+
+var repository = new Repository();
+var service =new Service(repository);
+var controller = new Controller(service);
+controller.Add();
 
 
 /*
