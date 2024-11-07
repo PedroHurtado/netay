@@ -1,0 +1,17 @@
+void fn()
+int sum(int a,int b)
+
+public delegate void dfn();->fn
+public delegate int dsum(int a,int b);->sum
+
+1. Definir una clase que tenga un metodo con la misma firma
+
+    class{
+        static void fn()
+        static int sum(int a,int b)
+    }
+
+    dfn fn = ()=>{} 
+    dsum sum = (a,b)=>a+b->no es necesario return
+    sum(5,3)->8
+    fn()

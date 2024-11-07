@@ -13,3 +13,4 @@
     Array,List<T>, Extension Method, Delegates, IEnumerable<T> ->Linq
 
 6. Patrones de diseño (Paint)
+

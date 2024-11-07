@@ -1,0 +1,20 @@
+function sum(a){
+   return (b)=>a+b
+}
+
+Clousure->Permite la creacion de la instancia de objeto sin definiir una clase
+
+const result = sum(5)->objeto que tiene un argumento privado con valor 5
+result(100)->105
+result(30)->35
+
+class Sum{
+   Sum(int a){
+   }
+}
+
+new Sum(5)
+
+Transforma el código de la funcion sum de la parte superior escita en js a c#
+
+sin crear clases

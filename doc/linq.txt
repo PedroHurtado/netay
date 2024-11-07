@@ -1,0 +1,16 @@
+1. Delegates(2008)->Lambda
+    Func
+    Action
+
+2. Extension metodos c#
+
+    https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
+
+    int a=8
+    int start = 5
+    int end = 20
+
+    a>=start && a<=end- BetWeen
+
+3. IEnumerable<T>
+    https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/yield

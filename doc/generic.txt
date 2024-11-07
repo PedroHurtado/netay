@@ -1,0 +1,17 @@
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics
+
+public IRepository<T,ID>{
+    Add(T entity);
+    Update(T entity);
+    Remove(T entity);
+    T Get(ID);
+}
+
+
+public class CustomerRepository: IRepository<Customer,int>{
+
+}
+
+public class UserRepositor: IRepository<User,int>{
+    
+}
