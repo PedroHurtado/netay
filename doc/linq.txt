@@ -14,3 +14,9 @@
 
 3. IEnumerable<T>
     https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/yield
+    yield return value->toma el valor desde el productor al consumir y establezco
+    un puntero al código
+
+    source(productos)-> toList(),toArray() forEach
+    
+4. Delegados->instancias de los delegados que son funciones flecha(lamba expresion)

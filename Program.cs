@@ -8,6 +8,14 @@ using util;
 List<int> list = [1,2,3,4,5,6,7,8,8,9,10];
 var evens = list.Where(v=>v%2==0);
 
+var events1 = list.Filter(v=>v%2==0);
+
+events1.ToList();   //bloquante
+events1.ToArray();  //bloqueante
+
+foreach (var ev in events1){ //iterando elemento a elemento
+    Console.WriteLine(ev);
+}
 int b = 5;
 Console.WriteLine(b.Between(1,10)); // true
 
@@ -96,5 +104,15 @@ public readonly record struct Person(string FirstName, string LastName);
 public static class ExtensionsInt{
     public static bool Between(this int value, int a, int b){
         return (value >= a && value <= b);
+    }
+}
+
+public static class ExtensionIEnumerable{
+    public static IEnumerable<T> Filter<T>(this IEnumerable<T> source, Func<T, bool> predicate) {
+        foreach (var item in source) {
+            if(predicate(item)){
+                yield return item;  
+            }
+        }
     }
 }

@@ -14,7 +14,6 @@ namespace service{
     }
 
     public interface IRepository: IAdd,IUpdate, IRemove {}
-
     public class Repository : IRepository
     {
         public void Add()
